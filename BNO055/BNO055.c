@@ -1,3 +1,10 @@
+/*
+ * @Author: canpinaremre
+ * Purpose: To use BNO055 IMU
+ * Language:  C
+ */
+
+
 #include <drivers/BNO055/BNO055.h>
 
 void reset_Buffer(void){

@@ -1,3 +1,10 @@
+/*
+ * @Author: canpinaremre
+ * Purpose: To use BNO055 IMU
+ * Language:  C
+ */
+
+
 #include "stm32f4xx_hal.h"
 #include "main.h"
 #include <module/i2c/i2c_read_write.h>
